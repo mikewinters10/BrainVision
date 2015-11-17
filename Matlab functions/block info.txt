@@ -1,0 +1,14 @@
+UDP Object creation:
+h=udp('127.0.0.1',5005,'LocalPort',5005,'InputBufferSize',2097152,'InputDatagramPacketSize',65535);
+
+Bytes per OSC message: 3,908
+
+first difference (block 2 minus block 1)
+803
+
+afterwarS: pattern of 4 byte packages
+
+
+
+
+*.pyc   in gitignore
